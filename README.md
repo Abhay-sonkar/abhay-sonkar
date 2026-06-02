@@ -9,8 +9,8 @@ Currently solving DSA problems daily in C++.
 **Tech Stack**
 - Frontend: React, HTML, CSS, JavaScript
 - Backend: Node.js, Express
-- Database: MongoDB
-- Language: C++ (DSA), JavaScript
+- Database: MongoDB, MySQL
+- Language: C++ (DSA), JavaScript, Java, Python
 - Tools: Git, VS Code
 
 **Currently working on**
