@@ -14,7 +14,7 @@ Currently solving DSA problems daily in C++.
 - Tools: Git, VS Code
 
 **Currently working on**
-- Code Review Assistant (MERN + Anthropic API)
+- Code Review Assistant (MERN + Deepseek API)
 - LeetCode daily — C++
 
 📫 [LinkedIn](https://www.linkedin.com/in/abhay-kumar0705) · [LeetCode](https://leetcode.com/u/AbhayKumar-19/)
